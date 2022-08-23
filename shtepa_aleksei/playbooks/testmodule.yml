@@ -1,0 +1,8 @@
+---
+- name: Test play
+  hosts: localhost
+  vars:
+    newcontent_file_path: "hello"
+    newcontent_content: "some file content"
+  roles:
+    - training_collection.shtepa_aleksei.testmodule

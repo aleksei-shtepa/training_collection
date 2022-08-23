@@ -1,0 +1,5 @@
+---
+- name: Put file
+  training_collection.shtepa_aleksei.newcontent:
+    path: "{{ newcontent_file_path }}"
+    content: "{{ newcontent_content }}"
