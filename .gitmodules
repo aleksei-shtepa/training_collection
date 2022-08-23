@@ -1,0 +1,6 @@
+[submodule "shtepa_aleksei/roles/vector-role"]
+	path = shtepa_aleksei/roles/vector-role
+	url = https://github.com/aleksei-shtepa/vector-role.git
+[submodule "shtepa_aleksei/roles/lighthouse-role"]
+	path = shtepa_aleksei/roles/lighthouse-role
+	url = https://github.com/aleksei-shtepa/lighthouse-role.git
